@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="food">
+        <item>대한민국</item>
+        <item>아르헨티나</item>
+        <item>일본</item>
+        <item>독일</item>
+        <item>브라질</item>
+        <item>프랑스</item>
+        <item>스웨덴</item>
+        <item>크로아티아</item>
+    </string-array>
+    <string-array name="year">
+        <item>2016년</item>
+        <item>2017년</item>
+        <item>2018년</item>
+        <item>2019년</item>
+        <item>2020년</item>
+        <item>2021년</item>
+        <item>2022년</item>
+        <item>2023년</item>
+    </string-array>
+    <string-array name="term">
+        <item>1학기</item>
+        <item>여름학기</item>
+        <item>2학기</item>
+        <item>겨울학기</item>
+    </string-array>
+    <string-array name="graduateArea">
+        <item>전공</item>
+        <item>교육학공통</item>
+        <item>선수</item>
+
+    </string-array>
+    <string-array name="universityArea">
+        <item>전공</item>
+        <item>고양및기타</item>
+
+    </string-array>
+
+</resources>
